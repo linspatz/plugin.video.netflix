@@ -1,6 +1,12 @@
 # plugin.video.netflix
 Kodi Addon
 
+First thanks to everybody who was already involved into that addon:
+- AddonScriptorDE
+- corona
+- logi85
+- and all the unnamed heros out there :)
+
 Necessary software:
 - Python newer than 2.7.6 [otherwise you get an EOF error during request of https urls]
 - Chrome
