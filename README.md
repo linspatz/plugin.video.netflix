@@ -16,5 +16,6 @@ Under Linux this will be something like:
 
 Under Windows like: 
 - C:\Users\myuser\AppData\Roaming\Kodi\...  
+
 After adding the path, you have to set the scrapper to movies or series.  
 Then you can add items to library in the plugin and they will appear in your library.
