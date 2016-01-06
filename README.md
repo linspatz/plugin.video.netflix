@@ -12,7 +12,8 @@ Library:
 If you want to add something to kodi-library, first add the right path to video-sources.  
 Under Linux this will be something like:  
  - /home/[user]/.kodi/userdata/addon_data/plugin.video.netflix/library/movies/  
- - /home/[user]/.kodi/userdata/addon_data/plugin.video.netflix/library/tv/  
+ - /home/[user]/.kodi/userdata/addon_data/plugin.video.netflix/library/tv/
+
 Under Windows like: 
 - C:\Users\myuser\AppData\Roaming\Kodi\...  
 After adding the path, you have to set the scrapper to movies or series.  
